@@ -1,0 +1,2 @@
+ exampleopenExample('comm/BERPerformanceOfDifferentEqualizerExample')
+ 
